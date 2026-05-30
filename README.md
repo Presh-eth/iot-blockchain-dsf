@@ -14,11 +14,14 @@ This repository contains the Solidity smart contract and Hardhat scripts used to
 - Solidity v0.8.28
 - Hardhat Ethereum development framework
 - Local Hardhat Ethereum test network
-- 20 simulated IoT devices
+- 100 simulated IoT devices
 
 # Results
-- Successful device registration and authentication
-- Average latency: 43.85 ms
+- 100 simulated IoT devices
+- 100 successful registrations
+- 100 successful authentications
+- Average registration latency: 44.19 ms
+- Authentication success rate: 100%
 
 # Purpose
 Proof-of-concept implementation accompanying the associated research study.
